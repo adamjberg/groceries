@@ -1,0 +1,14 @@
+html {
+  background-color: #111;
+  color: #eee;
+}
+
+#add {
+  border-radius: 40px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  background-color: blue;
+  right: 16px;
+  bottom: 16px;
+}
